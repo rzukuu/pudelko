@@ -1,0 +1,1 @@
+prompt("Prosze podac szerokość pudełka: ")
